@@ -21,6 +21,7 @@
    #### 2.Standardizing the data.
    #### 3.Label encoding.
    #### 4.Frame preparation.
+   ![](images/frame-preparation.png)
    
    
    ### Training a deep learning model using keras:

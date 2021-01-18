@@ -29,6 +29,8 @@
    
    ### Evaluating results:
    #### 1.Confusion matrix
+   ![](images/confusion-matrix.png)
+   
    #### 2.Model accuracy and model loss graph.
    
 

@@ -8,7 +8,7 @@
    ### Technical Aspect
  
 ## Overview:
-   ### This project predicts the fall while walking. Data are manually collected using mobile app which has inbuilt accelerometer sensor. Those collected data are used to train CNN model and finally saved the weights.
+   ### This project predicts the fall while walking. Data are manually collected using a mobile app that has an inbuilt accelerometer sensor. Those collected data are used to train the CNN model and finally saved the weights.
 ## problem statement:
    ### 40% of the traumatic injuries related hospitalization are due to fall, so it is necessary to predict and prevent fall in elderly at early stage. These people always need a care taker and there is a need to improve the independence and quality of life.
 ## Motivation:
